@@ -1,3 +1,4 @@
 # My Portfolio Repository
+Currently, it is not yet done up.
 
-https://jingyiyanlol.github.io/
+Link to github pages: https://jingyiyanlol.github.io/
