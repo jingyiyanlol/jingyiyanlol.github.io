@@ -3012,7 +3012,7 @@ input, select, textarea {
 		#header p {
 			/* margin: 1em 0 0 0; */
 			margin: auto;
-			padding: 0px 20px 0px 20px;
+			padding: 0px 50px 0px 50px;
 		}
 
 		#header .actions {
@@ -3336,7 +3336,7 @@ input, select, textarea {
 
 		/* One: Career Interests */
 
-			#career-interests {
+			#one{
 				text-align: center;
 			}
 
